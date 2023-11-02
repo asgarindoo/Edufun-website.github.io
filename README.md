@@ -1,2 +1,2 @@
 # Edufun-website.github.io
-tidak responsive
+demo: https://asgarindoo.github.io/Edufun-website.github.io/
